@@ -1,7 +1,5 @@
 /**
-Proyecto AMSCHEL creado por el estudiante en ingenieria en
-computacion Cristian Escalante Garcia
-comenzando el dia miercoles 28 de abril del 2021
+proyecto para el tercer parcial de Programacion orientada a objetos
 */
 
 #include <iostream>
